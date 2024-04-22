@@ -1,6 +1,6 @@
 ## Olá, eu sou o Leandro :)
 
-🎓 Engenheiro Agrônomo de formação.
+<!--🎓 Engenheiro Agrônomo de formação. -->
 
 🔭 Hoje trabalho como estagiário de retail (operações comerciais) na Nutrien Soluções Agrícolas.
 
