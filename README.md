@@ -8,7 +8,6 @@
 
 💬 Apaixonado por café especial e futebol.
 
-
 <div display ="inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" />
