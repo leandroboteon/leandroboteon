@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá, eu sou o Leandro :)
 
-<!--
-**leandroboteon/leandroboteon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Hoje trabalho como estagiário de retail (operações comerciais) na Nutrien Soluções Agrícolas.
 
-Here are some ideas to get you started:
+🌱 Estudando Ciência de Dados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Apaixonado por café especial e futebol.
+
+🧑‍💻 Atualmente mais focado em:
+
+<div display ="inline">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" />
+</div>
+
+##
+##### Você pode me encontrar em:
+&nbsp;<a href="https://br.linkedin.com/in/leandroboteon">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>&nbsp;
