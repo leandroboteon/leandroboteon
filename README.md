@@ -1,17 +1,23 @@
 ## Olá, eu sou o Leandro :)
 
-<!--🎓 Engenheiro Agrônomo de formação. -->
+🎓 Engenheiro agrônomo de formação.
 
 🔭 Hoje trabalho como estagiário de retail (operações comerciais) na Nutrien Soluções Agrícolas.
 
-🌱 Estudando Ciência de Dados.
+🌱 Estudando Ciência de Dados e para poder contribuir em projetos com foco na área comercial, incluindo inteligência de mercado, planejamento e performance
 
-💬 Apaixonado por café especial e futebol.
+💬 Amo café especial e futebol.
 
+🧑‍💻 Principais linguagens:
+- Python
+- Bibliotecas Pandas, Matplotlib e Seaborn
+- SQL
+  
 <div display ="inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" />               
 </div>
 
 ##
