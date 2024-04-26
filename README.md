@@ -4,7 +4,7 @@
 
 🔭 Hoje trabalho como estagiário de retail (operações comerciais) na Nutrien Soluções Agrícolas.
 
-🌱 Estudando Ciência de Dados e para poder contribuir em projetos com foco na área comercial, incluindo inteligência de mercado, planejamento e performance
+🌱 Estudando Ciência de Dados para poder contribuir em projetos com foco na área comercial, incluindo inteligência de mercado, planejamento e performance
 
 💬 Amo café especial e futebol.
 
