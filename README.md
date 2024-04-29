@@ -21,7 +21,8 @@
 </div>
 
 ##
-##### Você pode me encontrar em:
+### Você pode me encontrar em:
+
 &nbsp;<a href="https://br.linkedin.com/in/leandroboteon">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
