@@ -2,7 +2,7 @@
 
 🎓 Engenheiro agrônomo de formação.
 
-🔭 Hoje trabalho como estagiário de retail (operações comerciais) na Nutrien Soluções Agrícolas.
+🔭 Já trabalhei com Dados em multinacional e em organização jovem global.
 
 🌱 Estudando Ciência de Dados para poder contribuir em projetos com foco na área comercial, incluindo inteligência de mercado, planejamento e acesso ao mercado.
 
