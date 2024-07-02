@@ -1,6 +1,6 @@
 ## Olá, eu sou o Leandro :)
 
-🎓 Engenheiro agrônomo de formação.
+🎓 Engenheiro agrônomo formado pela UNESP.
 
 🔭 Já trabalhei com Dados em multinacional e em organização jovem global.
 
