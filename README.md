@@ -8,7 +8,7 @@
 
 💬 Amo café especial e futebol.
 
-🧑‍💻 Principais linguagens:
+💻 Principais linguagens:
 - Python
 - Bibliotecas Pandas, scikit-learn, Matplotlib e Seaborn
 - SQL
