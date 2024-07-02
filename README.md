@@ -4,7 +4,7 @@
 
 🔎 Já trabalhei com Dados em multinacional e em organização jovem global.
 
-📚 Estudando Ciência de Dados para poder contribuir em projetos com foco na área de marketing estratégico, incluindo inteligência e acesso ao mercado.
+📚 Estudando Ciência de Dados para poder contribuir em projetos de marketing estratégico, incluindo inteligência e acesso ao mercado.
 
 💬 Amo café especial e futebol.
 
