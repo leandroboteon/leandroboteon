@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" />               
 </div>
 
-
+##
 ### Você pode me encontrar em:
 
 &nbsp;<a href="https://br.linkedin.com/in/leandroboteon">
