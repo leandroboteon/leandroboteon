@@ -2,9 +2,9 @@
 
 🎓 Engenheiro agrônomo formado pela UNESP.
 
-🔭 Já trabalhei com Dados em multinacional e em organização jovem global.
+🔎 Já trabalhei com Dados em multinacional e em organização jovem global.
 
-🌱 Estudando Ciência de Dados para poder contribuir em projetos com foco na área de marketing estratégico, incluindo inteligência e acesso ao mercado.
+📚 Estudando Ciência de Dados para poder contribuir em projetos com foco na área de marketing estratégico, incluindo inteligência e acesso ao mercado.
 
 💬 Amo café especial e futebol.
 
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" />               
 </div>
 
-##
+
 ### Você pode me encontrar em:
 
 &nbsp;<a href="https://br.linkedin.com/in/leandroboteon">
